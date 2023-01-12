@@ -9,11 +9,10 @@
         "último": " Gisel "
       },
       "apellido": {
-        "título": " Señorita ",
-        "primero": " Gallego "
+        
+   "primero": " Gallego "
       },
-      "localización": {
-        "calle": {
+      "Dirección": {
           "número": 123 ,
           "nombre": " Chaco ",
         },
@@ -21,10 +20,7 @@
         "estado": " Buenos Aires ",
         "país": " Argentina ",
         "código postal": " 8000 ",
-        "coordenadas": {
-          "latitud": " -69.8246 ",
-          "longitud": " 134.8719 "
-        },
+        
       "correo electrónico": " Mia.gallego@example.com ",
       "acceso": {
         "uuid": " 7a0eed16-9430-4d68-901f-c0d4c1c3bf00 ",
